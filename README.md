@@ -3,12 +3,11 @@ This is a frontend project created using React UI Material.
 This project aims to provide a user-friendly interface for browsing and managing products. It utilizes the React UI Material library to create a visually appealing and responsive design.
 
 Fetch, display, create,and update for product and user from the given API endpoint, using React and TypeScript.
-[Click here to see the Demo ](https://maya-tsedeke.github.io/fs15_8-breweries-app/).
-![demo1](ss.png)
+
 This project is a React app that allows users to search for product by price range, product name, or category. It fetches ecomerce data from the Open Platzi Fake Store API using Axios and displays it in a table with pagination and links to ecommerce websites. Users can also view single the row by ID columns.
 ## Demo
 
-A live demo of the project is available at [Demo URL](https://maya-tsedeke.github.io/fs15_frontend-project/).
+A live demo of the project is available [Click here to see the Demo ](https://maya-tsedeke.github.io/fs15_frontend-project/).
 ## Features
 
 - Display a list of products with their details, including title, price, description, category, and images.
@@ -83,10 +82,10 @@ If you would like to contribute to the project, please follow these guidelines:
 4. Push your changes to your fork.
 5. Create a pull request from your fork to the main repository.
 # License
-This project is licensed under the MIT License.
+This project is fork from Integrify Oy.
 
 # Acknowledgments
-1. Open Brewery DB API
+1. Platzi Fake Store API DB 
 2. Material-UI
 ## Contact Information
 If you have any questions, issues, or feedback about the project, please contact me at [infosignal2@gmail.com].
