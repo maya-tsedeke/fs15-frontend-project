@@ -7,7 +7,7 @@ Fetch, display, create,and update for product and user from the given API endpoi
 This project is a React app that allows users to search for product by price range, product name, or category. It fetches ecomerce data from the Open Platzi Fake Store API using Axios and displays it in a table with pagination and links to ecommerce websites. Users can also view single the row by ID columns.
 ## Demo
 
-A live demo of the project is available [Click here to see the Demo ](https://maya-tsedeke.github.io/fs15_frontend-project/).
+A live demo of the project is available [Click here to see the Demo ](https://maya-tsedeke.github.io/admin/users).
 ## Features
 
 - Display a list of products with their details, including title, price, description, category, and images.
